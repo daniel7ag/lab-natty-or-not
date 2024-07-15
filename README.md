@@ -1,4 +1,4 @@
-# Título do Projeto Extremamente Aesthetic ;)
+# O encontro com a lua
 
 ## 📒 Descrição
 Este projeto é uma criação artística que combina uma história gerada por inteligência artificial com uma imagem ilustrativa. A história, intitulada "O Encontro com a Lua", explora temas de mistério e inspiração.
